@@ -7,7 +7,7 @@ import java.sql.SQLOutput;
 
 public class Test01 {
     public void test01(){
-        System.out.println("test");
+        System.out.println("test01");
     }
 
 
